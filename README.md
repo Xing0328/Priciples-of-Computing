@@ -1,4 +1,3 @@
 Priciples-of-Computing
 ======================
-
-Week 1 HMWK
+Homework and Mini-project
